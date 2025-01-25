@@ -41,6 +41,8 @@
 ![Mannat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mannatgupta146&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=mannatgupta146&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Ashutosh's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mannatgupta146&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
