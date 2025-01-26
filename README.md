@@ -10,12 +10,14 @@
 - 💬 **Ask me** about my skills in **React, HTML, CSS, C++, Python, and JavaScript**.
 - ⚡ **Fun fact**: I enjoy **writing poems**, **exploring new recipes**, and **watching movies with friends**! 🎥🍴  
 --- 
+
 - 📫 **How to reach me**:  
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mannatgupta146@gmail.com)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannatgupta146)  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mannatgupta146)  
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mannatgupta146)  
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mannatgupta146)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mannatgupta146@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannatgupta146)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mannatgupta146)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mannatgupta146)  
+[![Instagram](https://img.shields.io/badge/Instagram-D32F2F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mannatgupta146)
+
 
  
 
@@ -24,9 +26,6 @@
 ### 🏆 GitHub Trophies  
 [![trophy](https://github-profile-trophy.vercel.app/?username=mannatgupta146&theme=flag-india&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mannatgupta146&theme=tokyonight-dou&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mannatgupta146&theme=vue&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ---
 
@@ -36,8 +35,9 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ---
 
@@ -48,9 +48,13 @@
 
 ---
 
+### Current Streak 🎯
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=mannatgupta146%20&theme=github-light)](https://git.io/streak-stats)
+
+---
 
 ### 🌟 Activity Graph:
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=mannatgupta146%20&theme=github-light)](https://git.io/streak-stats)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mannatgupta146&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
@@ -59,10 +63,10 @@
 ---
 
 ### 🌐 Social Profiles:  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannatgupta146)  
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mannatgupta146)  
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mannatgupta146)  
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mannat_1411) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannatgupta146)  
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mannatgupta146)  
+- [![Instagram](https://img.shields.io/badge/Instagram-D32F2F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mannat_1411)  
+
 
 ---
 
