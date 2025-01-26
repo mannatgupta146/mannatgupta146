@@ -46,7 +46,7 @@
 
 ### 🌟 Activity Graph:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mannatgupta146&theme=radical&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mannatgupta146&theme=github-dark&hide_border=true&short_numbers=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mannatgupta146&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 
 
