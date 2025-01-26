@@ -46,6 +46,7 @@
 
 ### 🌟 Activity Graph:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mannatgupta146&theme=radical&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com/?username=mannatgupta146)](https://git.io/streak-stats)
 
 
 
