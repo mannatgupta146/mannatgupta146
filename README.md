@@ -11,9 +11,7 @@
 - ⚡ **Fun fact**: I enjoy **writing poems**, **exploring new recipes**, and **watching movies with friends**! 🎥🍴  
 --- 
 
- 
 
----
 
 ### 🏆 GitHub Trophies  
 [![trophy](https://github-profile-trophy.vercel.app/?username=mannatgupta146&theme=flag-india&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)  
