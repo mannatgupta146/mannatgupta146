@@ -33,9 +33,8 @@
 
 ### 📊 GitHub Stats:  
 ![Mannat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true&theme=github-light)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mannatgupta146&layout=compact&theme=github-light)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mannatgupta146&langs_count=8)(https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mannatgupta146&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mannatgupta146&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
