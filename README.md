@@ -1,7 +1,7 @@
 # Hi 👋 I'm Mannat Gupta!
 
 ### 💫 About Me:
-- 🌱 I’m passionate about **front-end development**, crafting interactive and visually appealing user experiences with **React**, **HTML**, and **CSS**.  
+- 🌱 I’m passionate about **front-end development**, crafting interactive and visually appealing user experiences with **React**, **HTML**, **CSS** and **JavaScript**.  
 - 🤔 I’m currently looking for **opportunities to grow as a software engineer** and tackle **new challenges** in **data-driven development** and **system design**.  
 - 💡 I enjoy exploring innovative ways to combine **technology and creativity** to solve real-world problems.  
 - 🤝 I’m eager to collaborate on **front-end projects**, **Python-based solutions**, and **open-source contributions**.  
@@ -10,7 +10,6 @@
 - 💬 **Ask me** about my skills in **React, HTML, CSS, C++, Python, and JavaScript**.
 - ⚡ **Fun fact**: I enjoy **writing poems**, **exploring new recipes**, and **watching movies with friends**! 🎥🍴  
 --- 
-
 
 
 ### 🏆 GitHub Trophies  
@@ -28,7 +27,6 @@
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 ---
 
 ### 📊 GitHub Stats:  
@@ -42,8 +40,6 @@
 ---
 
 
----
-
 ### Current Streak 🎯
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=mannatgupta146%20&theme=github-light)](https://git.io/streak-stats)
 
@@ -52,9 +48,6 @@
 ### 🌟 Activity Graph:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mannatgupta146&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 
 ---
 
@@ -69,8 +62,6 @@
 ### 🌐 Social Profiles:   
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mannatgupta146)  
 - [![Instagram](https://img.shields.io/badge/Instagram-D32F2F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mannat_1411)
-
-
 
 ---
 
