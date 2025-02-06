@@ -7,7 +7,7 @@
 - 🤝 Open to collaborating on **front-end projects**, **Python-based solutions**, and **open-source contributions**.  
 - 📚 Continuously exploring **JavaScript frameworks**, **scalable tech solutions**, and **system design principles**.  
 - ♟️ Avid **chess player**, sharpening my **strategic thinking** and **problem-solving skills**.  
-- 💬 **Ask me** about **React, HTML, CSS, C++, Python, and JavaScript**.  
+- 💬 **Ask me** about **React, HTML, CSS, C++, Python, JavaScript, and Solidity**.  
 - ⚡ **Fun fact**: I enjoy **writing poems**, **exploring new recipes**, and **watching movies with friends**! 🎥🍴  
 
 ---
@@ -18,13 +18,29 @@
 ---
 
 ### 💻 Tech Stack  
+
+#### 🚀 Front-End Development  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+#### 🔥 Back-End & Blockchain  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
+
+#### 🛢️ Database & Storage  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+#### ⚙️ Programming Languages  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)  
+
+#### 🛠️ Tools & Platforms  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
 ---
 
