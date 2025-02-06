@@ -7,7 +7,7 @@
 - 🤝 Open to collaborating on **front-end projects**, **Python-based solutions**, and **open-source contributions**.  
 - 📚 Continuously exploring **JavaScript frameworks**, **scalable tech solutions**, and **system design principles**.  
 - ♟️ Avid **chess player**, sharpening my **strategic thinking** and **problem-solving skills**.  
-- 💬 **Ask me** about **React, HTML, CSS, C++, Python, JavaScript, and Solidity**.  
+- 💬 **Ask me** about **React, HTML, CSS, C++, Python, JavaScript, Solidity, and MATLAB**.  
 - ⚡ **Fun fact**: I enjoy **writing poems**, **exploring new recipes**, and **watching movies with friends**! 🎥🍴  
 
 ---
@@ -32,15 +32,19 @@
 #### 🛢️ Database & Storage  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
 
 #### ⚙️ Programming Languages  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
 
 #### 🛠️ Tools & Platforms  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-008CC1?style=for-the-badge&logo=cisco&logoColor=white)  
 
 ---
 
