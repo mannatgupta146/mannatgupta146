@@ -13,6 +13,11 @@
 
 ---
 
+### 📖 Languages Used  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mannatgupta146&langs_count=8)  
+
+---
+
 ### 🏆 GitHub Trophies  
 [![trophy](https://github-profile-trophy.vercel.app/?username=mannatgupta146&theme=flag-india&no-frame=false&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)  
 
@@ -46,21 +51,12 @@
 ![Mannat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true&theme=github-light)  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=mannatgupta146%20&theme=github-light)](https://git.io/streak-stats)  
 
 ---
-
-### 📖 Languages Used  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mannatgupta146&langs_count=8)  
-
----
-
-### 🎯 Current Streak  
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=mannatgupta146%20&theme=github-light)](https://git.io/streak-stats)  
-
----
-
 ### 🌟 Activity Graph  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mannatgupta146&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
+
+
 
 ### 📫 Connect with Me  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mannatgupta146@gmail.com)  
