@@ -9,7 +9,7 @@
 - 🔗 Enthusiastic about **blockchain technology**, **smart contracts**, and **decentralized applications (DApps)**.  
 - ♟️ Avid **chess player**, sharpening my **strategic thinking** and **problem-solving skills**.  
 - 💬 **Ask me** about **React, HTML, CSS, C++, Python, JavaScript, Solidity**.  
-- ⚡ **Fun fact**: I enjoy **writing poems**, **exploring new recipes**, and **watching movies with friends**! 🎥🍴  
+- ⚡ **Fun fact**: I enjoy **writing poems**, **exploring new recipes**, and **watching movies with friends**! 🎥🍴   
 
 ---
 
