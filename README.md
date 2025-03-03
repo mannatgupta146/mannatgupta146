@@ -57,7 +57,19 @@
 
 ---
 
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
 
+  <h3 style="color: white;">LEETCODE ACTIVITY</h3>
+  <img src="https://leetcard.jacoblin.cool/mannatgupta146?theme=github&ext=activity" width="400px" alt="LeetCode Stats" />
+
+  <h3 style="color: white; margin-top: 20px;">GFG ACTIVITY</h3>
+  <a href="https://www.geeksforgeeks.org/user/mannatgupta146/" target="_blank">
+    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="150px" alt="GFG Profile" />
+  </a>
+  
+  
+</div>
+---
 
 ### 📫 Connect with Me  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mannatgupta146@gmail.com)  
