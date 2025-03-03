@@ -57,18 +57,13 @@
 
 ---
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
 
-  <h3 style="color: white;">LEETCODE ACTIVITY</h3>
-  <img src="https://leetcard.jacoblin.cool/mannatgupta146?theme=github&ext=activity" width="400px" alt="LeetCode Stats" />
+### 🚀 LEETCODE ACTIVITY  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/mannatgupta146?theme=github&ext=activity)](https://leetcode.com/mannatgupta146/)
 
-  <h3 style="color: white; margin-top: 20px;">GFG ACTIVITY</h3>
-  <a href="https://www.geeksforgeeks.org/user/mannatgupta146/" target="_blank">
-    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="150px" alt="GFG Profile" />
-  </a>
-  
-  
-</div>
+### 🎯 GFG ACTIVITY  
+[![GFG Profile](https://media.geeksforgeeks.org/gfg-gg-logo.svg)](https://www.geeksforgeeks.org/user/mannatgupta146/)
+
 ---
 
 ### 📫 Connect with Me  
