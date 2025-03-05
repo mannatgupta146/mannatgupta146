@@ -63,7 +63,6 @@
 
 ### 🎯 GFG ACTIVITY  
 [![GFG Profile](https://media.geeksforgeeks.org/gfg-gg-logo.svg)](https://www.geeksforgeeks.org/user/mannatgupta146/)
-[![GFG](https://geeks-for-geeks-api.vercel.app/arnoob16)](https://geeks-for-geeks-api.vercel.app/mannatgupta146/)
 
 ---
 
