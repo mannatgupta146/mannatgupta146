@@ -24,6 +24,19 @@
 
 ---
 
+### 📊 GitHub Stats  
+![Mannat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true&theme=github-light)  
+
+---
+### GitHub Streak
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=mannatgupta146%20&theme=github-light)](https://git.io/streak-stats)  
+
+---
+### 🌟 Activity Graph  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mannatgupta146&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+
+---
+
 ### 💻 Tech Stack  
 
 #### 🚀 Front-End Development  
@@ -47,16 +60,6 @@
 ---
 
 ---
-
-### 📊 GitHub Stats  
-![Mannat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true&theme=github-light)  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=mannatgupta146%20&theme=github-light)](https://git.io/streak-stats)  
-
----
-### 🌟 Activity Graph  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mannatgupta146&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-
----
-
 
 ### 🚀 LEETCODE ACTIVITY  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/mannatgupta146?theme=github&ext=activity)](https://leetcode.com/mannatgupta146/)
