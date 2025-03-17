@@ -14,11 +14,6 @@
 
 ---
 
-### 📖 Languages Used  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mannatgupta146&langs_count=8)  
-
----
-
 ### 🏆 GitHub Trophies  
 [![trophy](https://github-profile-trophy.vercel.app/?username=mannatgupta146&theme=flag-india&no-frame=false&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)  
 
@@ -58,6 +53,10 @@
 #### 🛠️ Tools & Platforms  
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-008CC1?style=for-the-badge&logo=cisco&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ---
+
+---
+### 📖 Languages Used  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mannatgupta146&langs_count=8)  
 
 ---
 
