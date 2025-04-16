@@ -61,13 +61,8 @@
 
 ---
 
-### 🚀 LEETCODE ACTIVITY  
+### 🎯 LEETCODE ACTIVITY  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/mannatgupta146?theme=github&ext=activity)](https://leetcode.com/mannatgupta146/)
-
----
-
-### 🎯 GFG ACTIVITY  
-[![GFG Profile](https://media.geeksforgeeks.org/gfg-gg-logo.svg)](https://www.geeksforgeeks.org/user/mannatgupta146/)
 
 ---
 
