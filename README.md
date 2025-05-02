@@ -1,4 +1,4 @@
-# Hi 👋 I am Mannat Gupta !
+# Hi 👋 I am Mannat Gupta!
 
 ### 💫 About Me  
 - 🌱 Passionate about **front-end development**, crafting **interactive** and **visually appealing** user experiences with **React, HTML, CSS, and JavaScript**.  
