@@ -1,5 +1,9 @@
 # Hi 👋 I am Mannat Gupta!
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mannatgupta146&label=Profile%20views&color=0e75b6&style=flat" alt="mannatgupta146" /> </p>
+
 ### 💫 About Me  
 - 🌱 Passionate about **front-end development**, crafting **interactive** and **visually appealing** user experiences with **React, HTML, CSS, and JavaScript**.  
 - 🚀 Currently seeking **opportunities to grow as a software engineer** and tackle **data-driven development** and **system design challenges**.  
@@ -61,11 +65,6 @@
 
 ---
 
-### 🎯 LEETCODE ACTIVITY  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/mannatgupta146?theme=github&ext=activity)](https://leetcode.com/mannatgupta146/)
-
----
-
 ### 📫 Connect with Me  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mannatgupta146@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannatgupta146)  
@@ -79,6 +78,18 @@
 
 ---
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/mannatgupta146"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mannatgupta146" /></a><a href="https://ko-fi.com/https://cdn.ko-fi.com/cdn/kofi3.png?v=3"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" /></a></p><br><br>
+
+---
+
 ### 🌟 Show some ❤️ by starring some of my repositories and following me! ⭐
 
 # Thank You
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mannatgupta146&show_icons=true&locale=en&layout=compact" alt="mannatgupta146" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true&locale=en" alt="mannatgupta146" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mannatgupta146&" alt="mannatgupta146" /></p>
