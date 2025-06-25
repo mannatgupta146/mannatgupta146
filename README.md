@@ -1,8 +1,8 @@
-# Hi 👋 I am Mannat Gupta!
-
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mannatgupta146&label=Profile%20views&color=0e75b6&style=flat" alt="mannatgupta146" /> </p>
+
+# Hi 👋 I am Mannat Gupta!
 
 ### 💫 About Me  
 - 🌱 Passionate about **front-end development**, crafting **interactive** and **visually appealing** user experiences with **React, HTML, CSS, and JavaScript**.  
@@ -79,17 +79,10 @@
 ---
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mannatgupta146"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mannatgupta146" /></a><a href="https://ko-fi.com/https://cdn.ko-fi.com/cdn/kofi3.png?v=3"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/mannatgupta146"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mannatgupta146" /></p><br><br>
 
 ---
 
 ### 🌟 Show some ❤️ by starring some of my repositories and following me! ⭐
 
 # Thank You
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mannatgupta146&show_icons=true&locale=en&layout=compact" alt="mannatgupta146" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true&locale=en" alt="mannatgupta146" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mannatgupta146&" alt="mannatgupta146" /></p>
