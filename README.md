@@ -23,7 +23,7 @@
 ---
 
 ### 🔥GitHub Streak
-
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=mannatgupta146%20&theme=github-light)](https://git.io/streak-stats)  
 
 ---
 
