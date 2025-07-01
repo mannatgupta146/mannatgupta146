@@ -37,9 +37,8 @@
 
 ---
 ### 🌟 GitHub Trends
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mannatgupta146/langs)](https://api.githubtrends.io/user/svg/mannatgupta146/repos?time_range=one_month&include_private=True&group=other&loc_metric=changed&theme=classic)
-![GitHub Trends](https://api.githubtrends.io/user/svg/mannatgupta146/langs?time_range=one_month&theme=classic)
-[![GitHub Trends](https://api.githubtrends.io/user/svg/mannatgupta146/langs?time_range=one_month&theme=classic)](https://api.githubtrends.io/user/svg/mannatgupta146/repos?time_range=one_month&group=other&loc_metric=changed&theme=classic)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mannatgupta146/langs)](https://api.githubtrends.io/user/svg/mannatgupta146/repos?time_range=one_month&group=other&loc_metric=changed&theme=classic)
+
 
 ---
 
