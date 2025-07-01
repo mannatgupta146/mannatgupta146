@@ -3,6 +3,7 @@ name: Update Time in README
 on:
   schedule:
     - cron: "*/30 * * * *"  # every 30 minutes
+  workflow_dispatch:
 
 jobs:
   build:
@@ -15,10 +16,9 @@ jobs:
           TIME=$(TZ='Asia/Kolkata' date "+%I:%M %p %Z")
           sed -i "s|🕒 Current time:.*|🕒 Current time: \`$TIME\`|" README.md
 
-      - name: Commit and push
+      - name: Commit and push if changed
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add README.md
-          git commit -m "🕒 Update current time"
-          git push
+          git diff --quiet && echo "No changes to commit" || (git commit -m "🕒 Update current time" && git push)
