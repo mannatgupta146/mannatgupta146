@@ -61,6 +61,8 @@
 
 ---
 ### 📖 Languages Used  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mannatgupta146&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mannatgupta146/langs)](https://api.githubtrends.io/user/svg/mannatgupta146/repos?time_range=one_month&group=other&loc_metric=changed&theme=classic)
 
 ---
