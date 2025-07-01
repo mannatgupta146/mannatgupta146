@@ -37,7 +37,7 @@
 
 ---
 ### 🌟 GitHub Trends
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mannatgupta146/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mannatgupta146/langs)](https://api.githubtrends.io/user/svg/mannatgupta146/repos?time_range=one_month&include_private=True&group=other&loc_metric=changed&theme=classic)
 
 ---
 
