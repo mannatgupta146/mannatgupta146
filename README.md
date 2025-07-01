@@ -62,9 +62,9 @@
 ---
 ### 📖 Languages Used
 
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannatgupta146&layout=compact" />
-  <img height="180px" src="https://api.githubtrends.io/user/svg/mannatgupta146/langs" />
+<div style="display: flex; gap: 10px;">
+  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannatgupta146&layout=compact" />
+  <img height="250px" width="70" src="https://api.githubtrends.io/user/svg/mannatgupta146/langs" />
 </div>
 
 
