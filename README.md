@@ -36,11 +36,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mannatgupta146&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
-### 🌟 GitHub Trends
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mannatgupta146/langs)](https://api.githubtrends.io/user/svg/mannatgupta146/repos?time_range=one_month&group=other&loc_metric=changed&theme=classic)
-
-
----
 
 ### 💻 Tech Stack  
 
@@ -66,7 +61,7 @@
 
 ---
 ### 📖 Languages Used  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mannatgupta146&langs_count=8)  
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mannatgupta146/langs)](https://api.githubtrends.io/user/svg/mannatgupta146/repos?time_range=one_month&group=other&loc_metric=changed&theme=classic)
 
 ---
 
