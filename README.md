@@ -2,6 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mannatgupta146&label=Profile%20views&color=0e75b6&style=flat" alt="mannatgupta146" /> </p>
 
+![Visitor Badge](https://komarev.com/ghpvc/?username=mannatgupta146&style=flat-square)
+[![GitHub Trends](https://api.githubtrends.io/user/svg/mannatgupta146/langs?time_range=one_month&theme=classic)](https://api.githubtrends.io/user/svg/mannatgupta146/repos)
+
+
 # Hi 👋 I am Mannat Gupta!
 
 ### 💫 About Me  
