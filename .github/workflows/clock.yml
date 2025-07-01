@@ -1,0 +1,24 @@
+name: Update Time in README
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # every 30 minutes
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update README with current time
+        run: |
+          TIME=$(TZ='Asia/Kolkata' date "+%I:%M %p %Z")
+          sed -i "s|🕒 Current time:.*|🕒 Current time: \`$TIME\`|" README.md
+
+      - name: Commit and push
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m "🕒 Update current time"
+          git push
