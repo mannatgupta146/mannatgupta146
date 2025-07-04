@@ -37,6 +37,14 @@
 
 ---
 
+### 📖 Languages Used
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannatgupta146&layout=compact" />
+</div>
+
+---
+
 ### 💻 Tech Stack  
 
 #### 🚀 Front-End Development  
@@ -60,14 +68,7 @@
 ---
 
 ---
-### 📖 Languages Used
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannatgupta146&layout=compact" />
-</div>
-
-
----
 
 ### 📫 Connect with Me  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mannatgupta146@gmail.com)  
