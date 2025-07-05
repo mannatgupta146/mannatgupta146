@@ -76,15 +76,15 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mannatgupta146)  
 [![Instagram](https://img.shields.io/badge/Instagram-D32F2F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mannat_1411)  
 
-
+---
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mannatgupta146"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="mannatgupta146" /></p><br><br>
 
-
+---
 
 ### 🌟 Show some ❤️ by starring some of my repositories and following me! ⭐
 
 # Thank You
 ---
 
-🕒 Current time: `01:10 AM IST`
+🕒 Current time: `00:00 AM IST`
