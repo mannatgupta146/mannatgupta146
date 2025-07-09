@@ -2,23 +2,27 @@ name: Update Time in README
 
 on:
   schedule:
-    - cron: "*/1 * * * *"  # Run every minute
+    - cron: "*/1 * * * *"  # Runs every 1 minute
   workflow_dispatch:
 
 jobs:
-  build:
+  update-time:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - name: Update README with current time
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set current time in Asia/Kolkata
         run: |
           TIME=$(TZ='Asia/Kolkata' date "+%I:%M %p IST")
+          echo "Current time is $TIME"
           sed -i 's|🕒 Current time: `.*`|🕒 Current time: `'"$TIME"'`|' README.md
+          cat README.md
 
-      - name: Commit and push if changed
+      - name: Commit and push if README changed
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
           git add README.md
           git diff --cached --quiet || (git commit -m "⏰ Update current time" && git push)
