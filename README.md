@@ -87,7 +87,4 @@
 # Thank You
 
 ---
-
-🕒 Current time: `11:01 AM IST`
-
-
+🕒 Current time: `00:00 AM IST`
