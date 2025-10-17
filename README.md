@@ -38,19 +38,13 @@
 ---
 
 ### 📖 Languages Used
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannatgupta146&layout=compact&langs_count=20&theme=radical" />
-</div>
-
-
 <div style="display: flex; gap: 10px;">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannatgupta146&layout=compact&langs_count=20&hide_border=false&theme=radical" 
-    alt="Top Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannatgupta146&langs_count=20&theme=radical&hide_border=false&count_private=true" 
+    alt="Top Languages"
   />
 </div>
+
 
 
 ---
