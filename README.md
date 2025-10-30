@@ -19,7 +19,12 @@
 ---
 
 ### 📊 GitHub Stats  
-![Mannat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true&theme=github-light)  
+![Mannat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true&theme=github_light)
+![Mannat's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mannatgupta146&show_icons=true&theme=github_light)
+![Mannat's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mannatgupta146&show_icons=true&theme=github_light&cache_bust=1)
+
+
+
 
 ---
 
