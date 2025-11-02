@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mannatgupta146&label=Profile%20views&color=0e75b6&style=flat" alt="mannatgupta146" /> </p>
 
-
 # Hi 👋 I am Mannat Gupta!
 
 ### 💫 About Me  
