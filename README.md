@@ -1,6 +1,12 @@
 <h1 align="center">A passionate developer from India</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mannatgupta146&label=Profile%20views&color=0e75b6&style=flat" alt="mannatgupta146" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mannatgupta146&label=Profile%20views&color=0e75b6&style=flat" alt="mannatgupta146" />
+  
+  <!-- ⭐ Total Stars on Right -->
+  <img src="https://img.shields.io/github/stars/mannatgupta146?style=flat&label=Total%20Stars" alt="Total Stars" style="margin-left: 20px;" />
+</p>
+
 
 # Hi 👋 I am Mannat Gupta!
 
@@ -86,15 +92,6 @@
 ---
 
 ### 🌟 Show some ❤️ by starring some of my repositories and following me! ⭐
-### ⭐ Total Stars Earned
-![Total Stars](https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true&hide=contribs,prs&count_private=true&include_all_commits=true&custom_title=Total%20Stars&show=stars)
-
-### ⭐ Total Stars
-![GitHub Stars](https://img.shields.io/github/stars/mannatgupta146?style=for-the-badge)
-
-
-![Stars](https://github-readme-streak-stats.herokuapp.com?user=mannatgupta146&theme=default&date_format=M%20j%5B%2C%20Y%5D)
-
 
 # Thank You
 
