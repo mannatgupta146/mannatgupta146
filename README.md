@@ -2,25 +2,23 @@
 
 <p align="left">
 
-  <!-- 👁️ Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=mannatgupta146&label=Profile%20views&color=0e75b6&style=flat" />
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=mannatgupta146&label=Profile%20views&color=grey&style=flat" />
 
-  <!-- ⭐ Total Stars -->
-  <img src="https://img.shields.io/github/stars/mannatgupta146?style=flat&label=Total%20Stars" />
+  <!-- Total Stars -->
+  <img src="https://img.shields.io/github/stars/mannatgupta146?style=flat&label=Total%20Stars&color=blue" />
 
-  <!-- 👥 Followers -->
-  <img src="https://img.shields.io/github/followers/mannatgupta146?label=Followers&style=flat" />
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/mannatgupta146?label=Followers&style=flat&color=blue" />
 
-  <!-- 📝 Gists -->
-  <img src="https://img.shields.io/badge/Gists-Count-blue?style=flat" />
+  <!-- Commit Activity (repo-specific) -->
+  <img src="https://img.shields.io/github/commit-activity/w/mannatgupta146/Day42_Task?style=flat" />
 
-  <!-- 🔥 Commit Activity (Weekly) -->
-  <img src="https://img.shields.io/github/commit-activity/w/mannatgupta146?style=flat" />
-
-  <!-- 🕒 Last Commit (Example Repo) -->
-  <img src="https://img.shields.io/github/last-commit/mannatgupta146/Day42_Task?style=flat" />
+  <!-- Last Commit -->
+  <img src="https://img.shields.io/github/last-commit/mannatgupta146/Day42_Task?style=flat&color=brightgreen" />
 
 </p>
+
 
 
 
