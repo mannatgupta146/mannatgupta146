@@ -3,7 +3,7 @@
 <p align="left">
 
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=mannatgupta146&label=Profile%20views&color=grey&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mannatgupta146&label=Profile%20views&color=blue&style=flat" />
 
   <!-- Total Stars -->
   <img src="https://img.shields.io/github/stars/mannatgupta146?style=flat&label=Total%20Stars&color=blue" />
