@@ -11,9 +11,6 @@
   <!-- Followers -->
   <img src="https://img.shields.io/github/followers/mannatgupta146?label=Followers&style=flat&color=blue" />
 
-  <!-- Last Commit -->
-  <img src="https://img.shields.io/github/last-commit/mannatgupta146/Day42_Task?style=flat&color=brightgreen" />
-
 </p>
 
 
