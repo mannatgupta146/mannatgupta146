@@ -13,9 +13,6 @@
 
 </p>
 
-
-
-
 # Hi 👋 I am Mannat Gupta!
 
 ### 💫 About Me  
