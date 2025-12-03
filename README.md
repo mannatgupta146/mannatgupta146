@@ -1,6 +1,5 @@
 <h1 align="center">A passionate developer from India</h1>
 
-
 <p align="left">
 
   <!-- Profile Views -->
