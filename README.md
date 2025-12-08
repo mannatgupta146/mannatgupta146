@@ -29,7 +29,8 @@
 ---
 
 ### 📊 GitHub Stats  
-![Mannat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true&cache_seconds=7200)
+
 
 
 ---
@@ -40,7 +41,8 @@
 ---
 
 ### 🏆 GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=mannatgupta146&theme=flag-india&no-frame=false&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=mannatgupta146&theme=flag-india&no-frame=false&margin-w=20&cache_seconds=7200)
+
 
 ---
 
