@@ -98,7 +98,7 @@
 
 ---
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mannatgupta146"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="mannatgupta146" /></p><br><br>
+<p><a href="https://www.buymeacoffee.com/mannatgupta146"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="180" alt="mannatgupta146" /></p><br><br>
 
 
 ### 🌟 Show some ❤️ by starring some of my repositories and following me! ⭐
