@@ -15,7 +15,7 @@
 </p>
 
 
-🕒 Current time: `03:25 AM IST`
+🕒 Current time: `03:51 AM IST`
 
 # Hi 👋 I am Mannat Gupta!
 
