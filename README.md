@@ -38,7 +38,8 @@
 
 ![mannatgupta146's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mannatgupta146&theme=default&chart=bars)
 ---
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mannatgupta146 ?cardType=github&theme=github&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
+
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mannatgupta146 ?cardType=github&theme=github&fontFamily=42dot%20Sans&preferLogin=false)
 ---
 
 
