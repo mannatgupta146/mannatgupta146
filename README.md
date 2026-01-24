@@ -3,14 +3,15 @@
 
 <p align="left">
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=mannatgupta146&label=Profile%20Views&color=2ecc71&style=flat" 
+  <img src="https://komarev.com/ghpvc/?username=mannatgupta146&label=Profile%20Views&color=blue&style=flat" />
 
   <!-- Total Stars -->
-  <img src="https://img.shields.io/github/stars/mannatgupta146?label=Total%20Stars&style=flat&color=2ecc71" />
+  <img src="https://img.shields.io/github/stars/mannatgupta146?label=Stars&style=flat&color=blue" />
 
   <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/mannatgupta146?label=Followers&style=flat&color=2ecc71" />
+  <img src="https://img.shields.io/github/followers/mannatgupta146?label=Followers&style=flat&color=blue" />
 </p>
+
 
 
 
