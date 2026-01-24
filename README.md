@@ -2,17 +2,16 @@
 <h1 align="center">A passionate developer from India</h1>
 
 <p align="left">
-
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=mannatgupta146&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mannatgupta146&label=Profile%20Views&color=2ecc71&style=flat" 
 
   <!-- Total Stars -->
-  <img src="https://img.shields.io/github/stars/mannatgupta146?style=flat&label=Total%20Stars&color=blue" />
+  <img src="https://img.shields.io/github/stars/mannatgupta146?label=Total%20Stars&style=flat&color=2ecc71" />
 
   <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/mannatgupta146?label=Followers&style=flat&color=blue" />
-
+  <img src="https://img.shields.io/github/followers/mannatgupta146?label=Followers&style=flat&color=2ecc71" />
 </p>
+
 
 
 🕒 Current time: `01:30 AM IST`
@@ -43,13 +42,7 @@
 ---
 
 ### 🏆 GitHub Trophies  
-![Metrics](https://metrics.lecoq.io/mannatgupta146?template=classic&config.timezone=Asia/Calcutta)
-![Metrics](https://metrics.lecoq.io/mannatgupta146?template=classic&base.header=0&base.metadata=0&config.timezone=Asia/Calcutta)
-![Stats](https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true)
-![Repos](https://img.shields.io/badge/Public%20Repos-Count-blue)
-![Followers](https://img.shields.io/github/followers/mannatgupta146)
-![Stars](https://img.shields.io/github/stars/mannatgupta146)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mannatgupta146&theme=flat)
 
 ---
 
