@@ -34,10 +34,6 @@
 
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true&theme=vue)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true&theme=vue-light)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true&theme=green)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true&hide_border=true&theme=vue)
-
 
 ---
 
@@ -47,7 +43,12 @@
 ---
 
 ### 🏆 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=mannatgupta146&theme=flag-india&no-frame=false&margin-w=20&cache_seconds=7200)
+![Metrics](https://metrics.lecoq.io/mannatgupta146?template=classic&config.timezone=Asia/Calcutta)
+![Metrics](https://metrics.lecoq.io/mannatgupta146?template=classic&base.header=0&base.metadata=0&config.timezone=Asia/Calcutta)
+![Stats](https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true)
+![Repos](https://img.shields.io/badge/Public%20Repos-Count-blue)
+![Followers](https://img.shields.io/github/followers/mannatgupta146)
+![Stars](https://img.shields.io/github/stars/mannatgupta146)
 
 
 ---
