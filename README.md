@@ -33,7 +33,11 @@
 ---
 
 ### 📊 GitHub Stats  
-![mannatgupta146's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mannatgupta146&theme=default&chart=bars)
+![Mannat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true&theme=vue-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mannatgupta146&theme=vue)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mannatgupta146&theme=vue-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true&theme=vue-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mannatgupta146&theme=vue-dark)
 
 ---
 
