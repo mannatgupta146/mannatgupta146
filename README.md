@@ -38,7 +38,7 @@
 ---
 
 ### 🔥GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mannatgupta146&theme=vue-light)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mannatgupta146&theme=vue-dark)](https://git.io/streak-stats)
 
 ---
 
