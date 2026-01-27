@@ -54,6 +54,10 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mannatgupta146%20&theme=vue&type=png)](https://git.io/streak-stats)
+
+---
+
 ### 🏆 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mannatgupta146&theme=flat)
 
