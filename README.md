@@ -1,4 +1,4 @@
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mannatgupta146%20&theme=github-light" alt="GitHub Streak" /></a>
 <h1 align="center">A passionate developer from India</h1>
 
 <p align="left">
@@ -38,7 +38,7 @@
 ---
 
 ### 🔥GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=mannatgupta146%20&theme=vue)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mannatgupta146%20&theme=github-light" alt="GitHub Streak" /></a>
 
 ---
 
