@@ -42,22 +42,6 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mannatgupta146%20&theme=vue)](https://git.io/streak-stats)
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mannatgupta146%20&theme=vue)](https://git.io/streak-stats)
-
----
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mannatgupta146%20&theme=vue" alt="GitHub Streak" /></a>
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mannatgupta146%20&theme=vue&type=png)](https://git.io/streak-stats)
-
----
-
 ### 🏆 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mannatgupta146&theme=flat)
 
