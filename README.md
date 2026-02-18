@@ -52,7 +52,7 @@
 ---
 
 ### 📖 Languages Used
-![mannatgupta146's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mannatgupta146&type=languages&theme=default&chart=bars)
+![mannatgupta146's Language stats](https://github-stats-card-generator.vercel.app/api/svg?username=mannatgupta146&type=languages&theme=default&chart=bars)
 
 ---
 
