@@ -32,7 +32,7 @@
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mannatgupta146&show_icons=true&theme=vue)
+![mannatgupta146's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mannatgupta146&theme=default&chart=bars)
 
 ---
 
@@ -42,7 +42,7 @@
 ---
 
 ### 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mannatgupta146&theme=flat)
+![GitHub Trophies](https://github-trophies.vercel.app/?username=mannatgupta146&margin-w=15&theme=flat)
 
 ---
 
@@ -52,12 +52,7 @@
 ---
 
 ### 📖 Languages Used
-<div style="display: flex; gap: 10px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannatgupta146&layout=compact&langs_count=20&theme=default&hide_border=false&count_private=true" 
-    alt="Top Languages"
-  />
-</div>
+![mannatgupta146's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mannatgupta146&type=languages&theme=default&chart=bars)
 
 ---
 
