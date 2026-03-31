@@ -84,10 +84,10 @@
 
 
 ### 📫 Connect with Me  
-[![Gmail](https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mannatgupta146@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannatgupta146)
-[![Twitter](https://img.shields.io/badge/-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mannatgupta146)
-[![Instagram](https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mannat_1411)
+[![Gmail](https://img.shields.io/badge/-ffffff?style=flat&logo=gmail&logoColor=D14836)](mailto:mannatgupta146@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-ffffff?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/mannatgupta146)
+[![Twitter](https://img.shields.io/badge/-ffffff?style=flat&logo=twitter&logoColor=1DA1F2)](https://twitter.com/mannatgupta146)
+[![Instagram](https://img.shields.io/badge/-ffffff?style=flat&logo=instagram&logoColor=E4405F)](https://www.instagram.com/mannat_1411)
 
 ---
 <h3 align="left">Support:</h3>
