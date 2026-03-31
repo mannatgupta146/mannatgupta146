@@ -89,6 +89,19 @@
 [![Twitter](https://img.shields.io/badge/-ffffff?style=flat&logo=twitter&logoColor=1DA1F2)](https://twitter.com/mannatgupta146)
 [![Instagram](https://img.shields.io/badge/-ffffff?style=flat&logo=instagram&logoColor=E4405F)](https://www.instagram.com/mannat_1411)
 
+<a href="mailto:mannatgupta146@gmail.com">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/gmail.svg" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/mannatgupta146">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" width="40" />
+</a>
+<a href="https://twitter.com/mannatgupta146">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" width="40" />
+</a>
+<a href="https://www.instagram.com/mannat_1411">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" width="40" />
+</a>
+
 ---
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mannatgupta146"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="180" alt="mannatgupta146" /></p><br><br>
