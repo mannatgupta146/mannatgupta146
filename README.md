@@ -19,15 +19,17 @@
 # Hi 👋 I am Mannat Gupta!
 
 ### 💫 About Me  
-- 🌱 Passionate about **front-end development**, crafting **interactive** and **visually appealing** user experiences with **React, HTML, CSS, and JavaScript**.  
-- 🚀 Currently seeking **opportunities to grow as a software engineer** and tackle **data-driven development** and **system design challenges**.  
-- 💡 Love blending **technology and creativity** to solve real-world problems and optimize user experiences.  
-- 🤝 Open to collaborating on **front-end projects**, **Python-based solutions**, and **open-source contributions**.  
-- 📚 Continuously exploring **JavaScript frameworks**, **scalable tech solutions**, and **system design principles**.  
-- 🔗 Enthusiastic about **blockchain technology**, **smart contracts**, and **decentralized applications (DApps)**.  
-- ♟️ Avid **chess player**, sharpening my **strategic thinking** and **problem-solving skills**.  
-- 💬 **Ask me** about **React, HTML, CSS, C++, Python, JavaScript, Solidity**.  
-- ⚡ **Fun fact**: I enjoy **writing poems**, **exploring new recipes**, and **watching movies with friends**! 🎥🍴   
+- 🌱 Passionate about **building impactful full-stack applications (MERN)** that are not just functional, but **smooth, scalable, and enjoyable to use**.  
+- 🚀 On a journey to grow as a **software engineer**, focused on creating **real-world solutions**, improving **performance**, and writing **clean, maintainable code**.  
+- 📈 Committed to continuous growth — aiming to be **better than yesterday, every day**.  
+- 💡 I enjoy turning **ideas into products** by combining **logic + creativity**, with a strong focus on **user experience and usability**.  
+- 🛠️ Built projects like **AI-based systems, negotiation platforms, and full-stack apps**, gaining hands-on experience in **APIs, authentication, and end-to-end development**.  
+- 📚 Currently diving deeper into **system design, backend architecture, and advanced React concepts** to build more **robust and scalable systems**.  
+- 🔗 Exploring **blockchain & Solidity**, with an interest in building **secure and practical DApps**.  
+- 🤝 Open to collaborating on **exciting projects, open-source, and innovative ideas**.  
+- ♟️ Chess helps me think better — improving my **strategy, patience, and problem-solving skills**.  
+- 💬 **Ask me about** **MERN, full-stack development, APIs, React, or getting started with blockchain**.  
+- ⚡ **Fun fact**: I enjoy **writing poems, experimenting with new recipes, building creative projects, and watching movies with friends** 🎥🍴  
 
 ---
 
@@ -59,7 +61,7 @@
 ### 💻 Tech Stack  
 
 #### 🚀 Front-End Development  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
 ---
 
 #### 🔥 Back-End & Blockchain  
@@ -71,7 +73,7 @@
 ---
 
 #### ⚙️ Programming Languages  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
 ---
 
 #### 🛠️ Tools & Platforms  
@@ -82,10 +84,10 @@
 
 
 ### 📫 Connect with Me  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mannatgupta146@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannatgupta146)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mannatgupta146)  
-[![Instagram](https://img.shields.io/badge/Instagram-D32F2F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mannat_1411)  
+[![Gmail](https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mannatgupta146@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannatgupta146)
+[![Twitter](https://img.shields.io/badge/-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mannatgupta146)
+[![Instagram](https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mannat_1411)
 
 ---
 <h3 align="left">Support:</h3>
