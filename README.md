@@ -84,24 +84,21 @@
 
 
 ### 📫 Connect with Me  
+<a href="https://www.instagram.com/mannat_1411" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg" width="30" />
+</a>&nbsp;&nbsp;&nbsp;
 
-<div style="display: flex; gap: 15px;">
-  <a href="https://www.instagram.com/mannat_1411" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg" width="30" />
-  </a>
+<a href="https://www.linkedin.com/in/mannatgupta146" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg" width="30" />
+</a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/mannatgupta146" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg" width="30" />
-  </a>
+<a href="https://www.reddit.com/user/NotYourManOk/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/reddit.svg" width="30" />
+</a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.reddit.com/user/NotYourManOk/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/reddit.svg" width="30" />
-  </a>
-
-  <a href="https://twitter.com/mannatgupta146" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/twitter-x.svg" width="30"/>
-  </a>
-</div>
+<a href="https://twitter.com/mannatgupta146" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/twitter-x.svg" width="30"/>
+</a>
 
 ---
 <h3 align="left">Support:</h3>
