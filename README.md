@@ -85,20 +85,20 @@
 
 ### 📫 Connect with Me  
 
-<a href="https://www.instagram.com/mannat_1411" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg" />
+<a href="https://www.instagram.com/mannat_1411" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg" width="25" />
 </a>
 
-<a href="https://www.linkedin.com/in/mannatgupta146" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg" />
+<a href="https://www.linkedin.com/in/mannatgupta146" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg" width="25" />
 </a>
 
-<a href="https://www.reddit.com/user/NotYourManOk/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/reddit.svg" />
+<a href="https://www.reddit.com/user/NotYourManOk/" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/reddit.svg" width="25" />
 </a>
 
 <a href="https://twitter.com/mannatgupta146" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/twitter-x.svg" />
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/twitter-x.svg" width="25"/>
 </a>
 
 ---
