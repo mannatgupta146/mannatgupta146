@@ -16,18 +16,20 @@
 
 # Hi 👋 I am Mannat Gupta!
 
-### 💫 About Me  
-- 🌱 Passionate about **building impactful full-stack applications (MERN)** that are not just functional, but **smooth, scalable, and enjoyable to use**.  
-- 🚀 On a journey to grow as a **software engineer**, focused on creating **real-world solutions**, improving **performance**, and writing **clean, maintainable code**.  
-- 📈 Committed to continuous growth — aiming to be **better than yesterday, every day**.  
-- 💡 I enjoy turning **ideas into products** by combining **logic + creativity**, with a strong focus on **user experience and usability**.  
-- 🛠️ Built projects like **AI-based systems, negotiation platforms, and full-stack apps**, gaining hands-on experience in **APIs, authentication, and end-to-end development**.  
-- 📚 Currently diving deeper into **system design, backend architecture, and advanced React concepts** to build more **robust and scalable systems**.  
-- 🔗 Exploring **blockchain & Solidity**, with an interest in building **secure and practical DApps**.  
-- 🤝 Open to collaborating on **exciting projects, open-source, and innovative ideas**.  
-- ♟️ Chess helps me think better — improving my **strategy, patience, and problem-solving skills**.  
-- 💬 **Ask me about** **MERN, full-stack development, APIs, React, or getting started with blockchain**.  
-- ⚡ **Fun fact**: I enjoy **writing poems, experimenting with new recipes, building creative projects, and watching movies with friends** 🎥🍴  
+### 💫 About Me
+
+- 🌱 Passionate about **building impactful full-stack applications (MERN)** that are not just functional, but **smooth, scalable, and enjoyable to use**
+- 🚀 On a journey to grow as a **software engineer**, focused on creating **real-world solutions**, improving **performance**, and writing **clean, maintainable code**
+- 📈 Committed to continuous growth, aiming to be **better than yesterday, every day**
+- 💡 I enjoy turning **ideas into products** by combining **logic + creativity**, with a strong focus on **user experience and usability**
+- 🛠️ Built projects like **AI-based systems, negotiation platforms, and full-stack apps**, gaining hands-on experience in **APIs, authentication, and end-to-end development**
+- 📚 Currently diving deeper into **system design, backend architecture, and advanced React concepts** to build more **robust and scalable systems**
+- 🔗 Exploring **blockchain and Solidity**, with an interest in building **secure and practical DApps**
+- 🤝 Open to collaborating on **exciting projects, open-source, and innovative ideas**
+- ♟️ Chess helps me think better, improving my **strategy, patience, and problem-solving skills**
+- 💬 **Ask me about** **MERN, full-stack development, APIs, React, or getting started with blockchain**
+- ⚡ **Fun fact** I enjoy **writing poems, experimenting with new recipes, building creative projects, and watching movies with friends** 🎥🍴
+
 
 ---
 
