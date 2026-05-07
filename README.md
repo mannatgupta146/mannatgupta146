@@ -30,7 +30,6 @@
 - 💬 **Ask me about** **MERN, full-stack development, APIs, React, or getting started with blockchain**
 - ⚡ **Fun fact** I enjoy **writing poems, experimenting with new recipes, building creative projects, and watching movies with friends** 🎥🍴
 
-
 ---
 
 ### 📊 GitHub Stats  
