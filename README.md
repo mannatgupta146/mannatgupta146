@@ -1,4 +1,3 @@
-
 <h1 align="center">A passionate MERN stack developer from India</h1>
 
 <p align="left">
