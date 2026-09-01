@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/followers/mannatgupta146?label=Followers&style=flat&color=blue" />
 </p>
 
-🕒 Current time: `06:01 AM IST`
+🕒 Current time: `11:04 AM IST`
 
 # Hi 👋 I am Mannat Gupta!
 
