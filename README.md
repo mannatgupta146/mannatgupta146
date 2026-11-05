@@ -1,5 +1,3 @@
-
- 
  <h1 align="center">A passionate Full Stack Developer from India</h1>
 
 <p align="left">
