@@ -1,4 +1,4 @@
- <h1 align="center">A passionate Full Stack Developer from India</h1>
+<h1 align="center">A passionate Full Stack Developer from India</h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mannatgupta146&label=Profile%20Views&color=blue&style=flat" />
